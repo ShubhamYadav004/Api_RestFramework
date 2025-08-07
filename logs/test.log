@@ -1,0 +1,109 @@
+15:22:54.836 [main] INFO  com.api.listeners.TestListners - Test Suit Started !!
+15:22:57.046 [main] ERROR com.api.listeners.TestListners - Test Suit Failed !!loginTest
+15:22:57.059 [main] INFO  com.api.listeners.TestListners - Test Suit completed !!
+15:23:22.604 [main] INFO  com.api.listeners.TestListners - Test Suit Started !!
+15:23:24.818 [main] INFO  com.api.listeners.TestListners - Test Suit Started !!loginTest
+15:23:24.818 [main] INFO  com.api.listeners.TestListners - Discription!!loginTest
+15:23:24.823 [main] INFO  com.api.listeners.TestListners - Test Suit completed !!
+15:24:42.274 [main] INFO  com.api.listeners.TestListners - Test Suit Started !!
+15:24:44.341 [main] INFO  com.api.listeners.TestListners - Test Suit Started !!loginTest
+15:24:44.343 [main] INFO  com.api.listeners.TestListners - Discription!!loginTest
+15:24:44.346 [main] INFO  com.api.listeners.TestListners - Test Suit completed !!
+15:25:59.956 [main] INFO  com.api.listeners.TestListners - Test Suit Started !!
+15:26:02.215 [main] INFO  com.api.listeners.TestListners - Test Suit Started !!loginTest
+15:26:02.215 [main] INFO  com.api.listeners.TestListners - Discription!!verify login is working or not
+15:26:02.237 [main] INFO  com.api.listeners.TestListners - Test Suit completed !!
+15:26:58.700 [main] INFO  com.api.listeners.TestListners - Test Suit Started !!
+15:27:00.872 [main] INFO  com.api.listeners.TestListners - Discription!!verify login is working or not
+15:27:00.889 [main] INFO  com.api.listeners.TestListners - Test Suit completed !!
+
+15:33:49.082 [main] INFO  com.api.listeners.TestListners - Test Suit Started !!
+15:33:51.351 [main] INFO  com.api.listeners.TestListners - Test Suit Started !!loginTest
+15:33:51.351 [main] INFO  com.api.listeners.TestListners - Test case PASSED : loginTest
+15:33:51.355 [main] INFO  com.api.listeners.TestListners - Test Suit completed !!
+15:34:44.403 [main] INFO  com.api.listeners.TestListners - Test Suit Started !!
+15:34:46.886 [main] INFO  com.api.listeners.TestListners - Test Suit Started !!verify login is working or not
+15:34:46.886 [main] INFO  com.api.listeners.TestListners - Test case PASSED : loginTest
+15:34:46.890 [main] INFO  com.api.listeners.TestListners - Test Suit completed !!
+15:35:59.433 [main] INFO  com.api.listeners.TestListners - Test Suit Started !!
+15:36:01.627 [main] INFO  com.api.listeners.TestListners - Description !!verify login is working or not
+15:36:01.627 [main] INFO  com.api.listeners.TestListners - loginTestTest case PASSED : 
+15:36:01.631 [main] INFO  com.api.listeners.TestListners - Test Suit completed !!
+16:13:19.270 [main] INFO  com.api.listeners.TestListners - Test Suit Started !!
+16:13:21.933 [main] INFO  com.api.listeners.TestListners - Description !!verify login is working or not
+16:13:21.934 [main] INFO  com.api.listeners.TestListners - loginTestTest case PASSED : 
+16:13:21.936 [main] INFO  com.api.listeners.TestListners - Test Suit completed !!
+16:16:20.406 [main] INFO  com.api.listeners.TestListners - Test Suit Started !!
+16:16:22.065 [main] INFO  com.api.listeners.TestListners - Description !!verify login is working or not
+16:16:22.065 [main] INFO  com.api.listeners.TestListners - LoginTestTest case PASSED : 
+16:16:22.801 [main] INFO  com.api.listeners.TestListners - Description !!verify login is working or not
+16:16:22.801 [main] INFO  com.api.listeners.TestListners - loginTestTest case PASSED : 
+16:16:22.900 [main] INFO  com.api.listeners.TestListners - Test Suit Started !!verify login is working or not
+16:16:22.900 [main] ERROR com.api.listeners.TestListners - Test case Failed !!LoginTest
+16:16:23.336 [main] INFO  com.api.listeners.TestListners - Description !!Check whether Profile update API is working or not
+16:16:23.336 [main] INFO  com.api.listeners.TestListners - UpdateProfileTestTest case PASSED : 
+16:16:23.457 [main] INFO  com.api.listeners.TestListners - Description !!verify Forgot Password API is working or not
+16:16:23.458 [main] INFO  com.api.listeners.TestListners - ForgotPasswordTestTest case PASSED : 
+16:16:23.552 [main] INFO  com.api.listeners.TestListners - Test Suit Started !!verify Create Account is working or not
+16:16:23.552 [main] ERROR com.api.listeners.TestListners - Test case Failed !!createAccountTset
+16:16:23.826 [main] INFO  com.api.listeners.TestListners - Description !!check whether get profile API is working or not
+16:16:23.827 [main] INFO  com.api.listeners.TestListners - getProfileInfoTestTest case PASSED : 
+16:16:23.829 [main] INFO  com.api.listeners.TestListners - Test Suit completed !!
+16:19:03.855 [main] INFO  com.api.listeners.TestListners - Test Suit Started !!
+16:19:05.948 [main] INFO  com.api.listeners.TestListners - Description !!verify login is working or not
+16:19:05.948 [main] INFO  com.api.listeners.TestListners - LoginTestTest case PASSED : 
+16:19:06.669 [main] INFO  com.api.listeners.TestListners - Description !!verify login is working or not
+16:19:06.669 [main] INFO  com.api.listeners.TestListners - loginTestTest case PASSED : 
+16:19:06.768 [main] INFO  com.api.listeners.TestListners - Test Suit Started !!verify login is working or not
+16:19:06.769 [main] ERROR com.api.listeners.TestListners - Test case Failed !!LoginTest
+16:19:07.197 [main] INFO  com.api.listeners.TestListners - Description !!Check whether Profile update API is working or not
+16:19:07.197 [main] INFO  com.api.listeners.TestListners - UpdateProfileTestTest case PASSED : 
+16:19:07.317 [main] INFO  com.api.listeners.TestListners - Description !!verify Forgot Password API is working or not
+16:19:07.317 [main] INFO  com.api.listeners.TestListners - ForgotPasswordTestTest case PASSED : 
+16:19:07.420 [main] INFO  com.api.listeners.TestListners - Test Suit Started !!verify Create Account is working or not
+16:19:07.420 [main] ERROR com.api.listeners.TestListners - Test case Failed !!createAccountTset
+16:19:07.728 [main] INFO  com.api.listeners.TestListners - Description !!check whether get profile API is working or not
+16:19:07.729 [main] INFO  com.api.listeners.TestListners - getProfileInfoTestTest case PASSED : 
+16:19:07.730 [main] INFO  com.api.listeners.TestListners - Test Suit completed !!
+16:19:14.372 [main] INFO  com.api.listeners.TestListners - Test Suit Started !!
+16:19:16.523 [main] INFO  com.api.listeners.TestListners - Description !!verify login is working or not
+16:19:16.523 [main] INFO  com.api.listeners.TestListners - loginTestTest case PASSED : 
+16:19:17.001 [main] INFO  com.api.listeners.TestListners - Description !!Check whether Profile update API is working or not
+16:19:17.001 [main] INFO  com.api.listeners.TestListners - UpdateProfileTestTest case PASSED : 
+16:19:17.002 [main] INFO  com.api.listeners.TestListners - Test Suit completed !!
+16:20:47.503 [main] INFO  com.api.listeners.TestListners - Test Suit Started !!
+16:20:49.901 [main] INFO  com.api.listeners.TestListners - Description !!verify login is working or not
+16:20:49.902 [main] INFO  com.api.listeners.TestListners - loginTestTest case PASSED : 
+16:20:50.328 [main] INFO  com.api.listeners.TestListners - Description !!Check whether Profile update API is working or not
+16:20:50.328 [main] INFO  com.api.listeners.TestListners - UpdateProfileTestTest case PASSED : 
+16:20:50.329 [main] INFO  com.api.listeners.TestListners - Test Suit completed !!
+16:21:44.209 [main] INFO  com.api.listeners.TestListners - Test Suit Started !!
+16:21:46.426 [TestNG-test-ApiTest-1] INFO  com.api.listeners.TestListners - Description !!verify login is working or not
+16:21:46.426 [TestNG-test-ApiTest-1] INFO  com.api.listeners.TestListners - loginTestTest case PASSED : 
+16:21:46.632 [TestNG-test-ApiTest-2] INFO  com.api.listeners.TestListners - Description !!Check whether Profile update API is working or not
+16:21:46.633 [TestNG-test-ApiTest-2] INFO  com.api.listeners.TestListners - UpdateProfileTestTest case PASSED : 
+16:21:46.634 [main] INFO  com.api.listeners.TestListners - Test Suit completed !!
+17:11:22.322 [main] INFO  com.api.listeners.TestListners - Test Suit Started !!
+17:11:24.448 [main] INFO  com.api.listeners.TestListners - Description !!verify login is working or not
+17:11:24.449 [main] INFO  com.api.listeners.TestListners - loginTestTest case PASSED : 
+17:11:24.882 [main] INFO  com.api.listeners.TestListners - Description !!Check whether Profile update API is working or not
+17:11:24.882 [main] INFO  com.api.listeners.TestListners - UpdateProfileTestTest case PASSED : 
+17:11:24.882 [main] INFO  com.api.listeners.TestListners - Test Suit completed !!
+17:29:23.747 [main] INFO  com.api.listeners.TestListners - Test Suit Started !!
+17:29:25.858 [main] INFO  com.api.listeners.TestListners - Description !!verify login is working or not
+17:29:25.858 [main] INFO  com.api.listeners.TestListners - loginTestTest case PASSED : 
+17:29:26.307 [main] INFO  com.api.listeners.TestListners - Description !!Check whether Profile update API is working or not
+17:29:26.308 [main] INFO  com.api.listeners.TestListners - UpdateProfileTestTest case PASSED : 
+17:29:26.343 [main] INFO  com.api.listeners.TestListners - Test Suit completed !!
+17:38:08.450 [main] INFO  com.api.listeners.TestListners - Test Suit Started !!
+17:38:10.512 [main] INFO  com.api.listeners.TestListners - Description !!verify login is working or not
+17:38:10.512 [main] INFO  com.api.listeners.TestListners - loginTestTest case PASSED : 
+17:38:10.922 [main] INFO  com.api.listeners.TestListners - Description !!Check whether Profile update API is working or not
+17:38:10.923 [main] INFO  com.api.listeners.TestListners - UpdateProfileTestTest case PASSED : 
+17:38:10.954 [main] INFO  com.api.listeners.TestListners - Test Suit completed !!
+18:17:39.143 [main] INFO  com.api.listeners.TestListners - Test Suit Started !!
+18:17:41.203 [main] INFO  com.api.listeners.TestListners - Description !!verify login is working or not
+18:17:41.203 [main] INFO  com.api.listeners.TestListners - loginTestTest case PASSED : 
+18:17:41.678 [main] INFO  com.api.listeners.TestListners - Description !!Check whether Profile update API is working or not
+18:17:41.678 [main] INFO  com.api.listeners.TestListners - UpdateProfileTestTest case PASSED : 
+18:17:41.701 [main] INFO  com.api.listeners.TestListners - Test Suit completed !!
