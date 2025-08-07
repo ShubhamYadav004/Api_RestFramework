@@ -24,7 +24,7 @@ jobs:
           cache: maven
 
       - name: Execute Test
-        run: mvn clean test -DsuiteXmlFile=suite.xml -X
+        run: mvn clean test -Dsuite=suite -X
       - name: Upload a Build Artifact
         uses: actions/upload-artifact@v4.6.2
         with:
