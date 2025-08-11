@@ -7,8 +7,8 @@ import org.testng.Assert;
 import org.testng.annotations.Listeners;
 import org.testng.annotations.Test;
 
-    @Listeners({com.api.listeners.TestListners.class,com.api.listeners.ExtentReportListener.class})
-    public class LoginTest3 extends BaseTest{
+    @Listeners({com.api.listeners.TestListners.class})
+    public class LoginTest3 {
 
         @Test(description="verify login is working or not")
         public  void loginTest (){
