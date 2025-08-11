@@ -35,6 +35,7 @@ public class BaseService {
     protected Response getRequest(String endpoint){  // No Payload in Get Request
         return requestSpecification.get(endpoint);
     }
+
     protected Response putRequest(Object payload, String endpoint){  // In post and Put same thing will be use we give same thing just endpoint will be changed
         return requestSpecification.contentType(ContentType.JSON).body(payload).put(endpoint);
     }

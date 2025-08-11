@@ -8,7 +8,7 @@ import io.restassured.response.Response;
 import org.testng.Assert;
 import org.testng.annotations.Test;
 
-    public class AccountCreationTest {
+    public class AccountCreationTest extends BaseTest{
         @Test(description="verify Create Account is working or not")
         public  void createAccountTset(){
 
